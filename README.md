@@ -290,6 +290,3 @@ sourceProject (sourceProjectBCA86C81) Failed to call CreateWebhook, reason: Repo
 
 See [CONTRIBUTING.md](CONTRIBUTING.md)
 
-## License
-
-Copyright fourTheorem Ltd. 2018-2019. Distributed under the MIT License. See [LICENCE](LICENCE)
